@@ -1,1 +1,1 @@
-Human Activity Recognition whose trained model was later deployed on android.
+Human Activity Recognition on UCI HAR dataset
